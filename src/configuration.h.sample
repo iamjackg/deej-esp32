@@ -1,0 +1,13 @@
+//
+// Created by jack on 2021-04-21.
+//
+
+#ifndef DEEJUDP_SECRETS_H
+#define DEEJUDP_SECRETS_H
+
+#endif //DEEJUDP_SECRETS_H
+
+#define DEST_IP "192.168.2.241"
+#define SSID "secret_ssid"
+#define PASSWORD "secret_password"
+#define HOSTNAME "deejcontroller"
