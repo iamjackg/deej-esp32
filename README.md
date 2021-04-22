@@ -7,6 +7,7 @@ A basic project to control [my fork of deej](https://github.com/iamjackg/deej) v
 1. Install [PlatformIO Core](https://docs.platformio.org/en/latest/core/installation.html)
 1. Clone this repository
 1. Change `upload_port` in [`platformio.ini`](platformio.ini) to point to where your ESP32 is connected
+1. Change the `board` to whatever model you have
 1. In the `src` folder, copy [`configuration.h.sample`](src/configuration.h.sample) to `configuration.h`
 1. Fill in the details in `configuration.h`
     * `DEST_IP`: the host where you're running deej
